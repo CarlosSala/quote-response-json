@@ -1,31 +1,34 @@
 {
-  "status": "success",
-  "code": 200,
-  "data": {
-    "developer_quotes": [
-      {
-        "id": 1,
-        "quote": "Programs must be written for people to read, and only incidentally for machines to execute.",
-        "author": "Harold Abelson",
-        "source": "Structure and Interpretation of Computer Programs",
-        "date": "1984-07-15",
-        "context": "Importance of readability in code",
-        "category": "Programming Philosophy",
-        "language": "English",
-        "tags": ["readability", "code", "programming"]
-      },
-      {
-        "id": 2,
-        "quote": "First, solve the problem. Then, write the code.",
-        "author": "John Johnson",
-        "source": "Computer Programming Wisdom",
-        "date": "1997-11-08",
-        "context": "Approach to coding",
-        "category": "Problem Solving",
-        "language": "English",
-        "tags": ["problem solving", "code", "development"]
-      }
-    ]
-  },
-  "message": "Developer quotes retrieved successfully"
+  "developer_quotes": [
+    {
+      "id": 1,
+      "quote": "Programs must be written for people to read, and only incidentally for machines to execute.",
+      "author": "Harold Abelson",
+      "source": "Structure and Interpretation of Computer Programs",
+      "date": "1984-07-15",
+      "context": "Importance of readability in code",
+      "category": "Programming Philosophy",
+      "language": "English",
+      "tags": [
+        "readability",
+        "code",
+        "programming"
+      ]
+    },
+    {
+      "id": 2,
+      "quote": "First, solve the problem. Then, write the code.",
+      "author": "John Johnson",
+      "source": "Computer Programming Wisdom",
+      "date": "1997-11-08",
+      "context": "Approach to coding",
+      "category": "Problem Solving",
+      "language": "English",
+      "tags": [
+        "problem solving",
+        "code",
+        "development"
+      ]
+    }
+  ]
 }
